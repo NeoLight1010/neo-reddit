@@ -1,0 +1,6 @@
+[submodule "neo-reddit-server"]
+	path = neo-reddit-server
+	url = https://github.com/NeoLight1010/neo-reddit-server
+[submodule "neo-reddit-web"]
+	path = neo-reddit-web
+	url = https://github.com/NeoLight1010/neo-reddit-web
